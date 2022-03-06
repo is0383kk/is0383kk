@@ -5,3 +5,5 @@
 
 | <a href="https://github.com/is0383kk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=is0383kk&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/is0383kk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<a class="u-email Link--primary " href="mailto:is0383kk@gmail.com">is0383kk@gmail.com</a>
