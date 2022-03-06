@@ -1,5 +1,4 @@
 **Profile**
-- 🎓 日本🎌の中学生．Japanese junior high school student 
 - ❤️ 機械学習・アプリ開発に興味があります．I am interested in machine learning and application development.
 - 💬 質問があれば[ここ](https://github.com/is0383kk/is0383kk/issues)かメールにてご連絡ください．Please ask me about anything [here](https://github.com/is0383kk/is0383kk/issues) or E-male.
 
