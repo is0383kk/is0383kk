@@ -9,6 +9,6 @@
 | <a href="https://github.com/is0383kk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=is0383kk&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/is0383kk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+**Contact**  
 <a href="mailto:is0383kk@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
