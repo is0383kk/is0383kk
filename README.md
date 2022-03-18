@@ -3,6 +3,7 @@
 <h3/><hr/>
 
 **Profile**
+---  
 - ❤️ 機械学習・アプリ開発に興味があります．I am interested in machine learning and application development.
 - 💬 質問があれば[ここ](https://github.com/is0383kk/is0383kk/issues)かメールにてご連絡ください．Please ask me about anything [here](https://github.com/is0383kk/is0383kk/issues) or E-male.
 
@@ -10,5 +11,6 @@
 | ------------- | ------------- |
 
 **Contact**  
+---  
 <a href="mailto:is0383kk@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
