@@ -21,5 +21,6 @@
  <summary>詳細</summary>
   <div align="center">
     残念！何もありません！（まだ）
+ポートフォリオ的なものをここに書きたい
   </div>
 </details>
