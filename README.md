@@ -18,11 +18,13 @@
 **Others**  
 ---  
 <details>
- <summary>詳細</summary>
+ <summary>受賞歴</summary>
   <div align="left">
     
-    Robocup@Home 2018 education league in 大垣大会 3位入賞
-    Robocup@Home 2018 education league in カナダ大会 3位入賞
+    Robocup2018 @Home Education League 岐阜・大垣大会 3位入賞：：Ri-one
+    [Robocup2018 @Home Education League カナダ・モントリオール大会 3位入賞：Ri-one](https://sites.google.com/site/robocupathomeedubk/challenges/robocup-home-education-challenge-robocup-2018)
+    [World Robot Summit2018 Partner Robot Challenge Virtual Space 3位入賞：eR@sers](https://wrs.nedo.go.jp/wrc2018/#awards-ceremony)  
+    [World Robot Summit2018 Partner Robot Challenge Real Space 準優勝：OIT Challenger and Duckers](https://wrs.nedo.go.jp/wrc2018/#awards-ceremony)  
     
   </div>
 </details>
