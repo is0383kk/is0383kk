@@ -22,9 +22,10 @@
   <div align="left">
     
     Robocup2018 @Home Education League 岐阜・大垣大会 3位入賞：：Ri-one
-    <a href="https://sites.google.com/site/robocupathomeedubk/challenges/robocup-home-education-challenge-robocup-2018" >Robocup2018 @Home Education League カナダ・モントリオール大会 3位入賞：Ri-one</a>
-    [World Robot Summit2018 Partner Robot Challenge Virtual Space 3位入賞：eR@sers](https://wrs.nedo.go.jp/wrc2018/#awards-ceremony)  
-    [World Robot Summit2018 Partner Robot Challenge Real Space 準優勝：OIT Challenger and Duckers](https://wrs.nedo.go.jp/wrc2018/#awards-ceremony)  
+    Robocup2018 @Home Education League カナダ・モントリオール大会 3位入賞：Ri-one
+    World Robot Summit2018 Partner Robot Challenge Virtual Space 3位入賞：eR@sers  
+    World Robot Summit2018 Partner Robot Challenge Real Space 準優勝：OIT Challenger and Duckers
+    Robocup2019 @Home Education League 新潟・長岡大会 3位入賞：Ri-one
     
   </div>
 </details>
