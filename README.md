@@ -21,6 +21,7 @@
  <summary>詳細</summary>
   <div align="center">
     Robocup@Home 2018 education league in 大垣大会 3位入賞
+    
     Robocup@Home 2018 education league in カナダ大会 3位入賞
   </div>
 </details>
