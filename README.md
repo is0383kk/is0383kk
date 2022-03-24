@@ -23,6 +23,8 @@
     
     # 大会受賞歴  
     
+    [プログラミングに関することをどんどん投稿して、](http://qiita.com)
+    
     Robocup2018 @Home Education League 岐阜・大垣大会 3位入賞：：Ri-one
     Robocup2018 @Home Education League カナダ・モントリオール大会 3位入賞：Ri-one
     経済産業省主催World Robot Summit2018 Partner Robot Challenge Virtual Space 3位入賞：eR@sers  
