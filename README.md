@@ -18,18 +18,15 @@
 **Others**  
 ---  
 <details>
- <summary>賞歴</summary>
+ <summary>経歴</summary>
   <div align="left">
     
-    Robocup2018 @Home Education League 岐阜・大垣大会 3位入賞：：Ri-one
-    Robocup2018 @Home Education League カナダ・モントリオール大会 3位入賞：Ri-one
-    経済産業省主催World Robot Summit2018 Partner Robot Challenge Virtual Space 3位入賞：eR@sers  
-    経済産業省主催World Robot Summit2018 Partner Robot Challenge Real Space 準優勝：OIT Challenger and Duckers
-    Robocup2019 @Home Education League 新潟・長岡大会 3位入賞：Ri-one
+    立命館大学情報理工学部知能情報学科卒業 学士（工学）2016/4 ~ 2020/3
+    立命館大学大学院情報理工学研究科人間情報科学コース 博士課程前期修了 修士（工学）2020/4 ~ 2022/3 
     
   </div>
   <details>
- <summary>賞歴</summary>
+ <summary>大会受賞歴</summary><blockquote>
   <div align="left">
     
     Robocup2018 @Home Education League 岐阜・大垣大会 3位入賞：：Ri-one
