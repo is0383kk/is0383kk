@@ -17,6 +17,8 @@
 
 **Others**  
 ---  
+
+経歴とか受賞歴とか  
 <details><summary>詳細</summary><blockquote>
 <details><summary>経歴</summary><blockquote>
   <div align="left">
