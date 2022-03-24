@@ -30,7 +30,7 @@
 <details><summary>大会受賞歴</summary><blockquote>
   <div align="left">
     
-    <img align="center" src="https://lh6.googleusercontent.com/5oLIRKUDC0QLxVcgske2TNRhcj0C4_24sX_K9WIngzbAl1930GZGMVVmMHupzO1GhVnMFkkUkgy9hsAlF0JFC7tiwQ9llgqZBH6iT8cmE9Dl-S8l=w1280" /></p>
+    <img align="center" src="https://lh6.googleusercontent.com/5oLIRKUDC0QLxVcgske2TNRhcj0C4_24sX_K9WIngzbAl1930GZGMVVmMHupzO1GhVnMFkkUkgy9hsAlF0JFC7tiwQ9llgqZBH6iT8cmE9Dl-S8l=w1280" />
     
     Robocup2018 @Home Education League 岐阜・大垣大会 3位入賞：Ri-one
     Robocup2018 @Home Education League カナダ・モントリオール大会 3位入賞：Ri-one
