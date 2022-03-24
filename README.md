@@ -25,7 +25,7 @@
     立命館大学大学院情報理工学研究科人間情報科学コース 博士課程前期修了 修士（工学）2020/4 ~ 2022/3 
   </div>
 </blockquote></details>
-<details><summary>大会受賞歴</summary><blockquote>
+<details><summary>**大会受賞歴**</summary><blockquote>
   <div align="left">
     
     Robocup2018 @Home Education League 岐阜・大垣大会 3位入賞：：Ri-one
