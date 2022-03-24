@@ -37,3 +37,4 @@
 </blockquote></details>
 
 </blockquote></details>
+https://scrapbox.io/is0383kk-00323333/
