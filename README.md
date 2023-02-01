@@ -7,8 +7,8 @@
 
 **Profile**
 ---  
-- 💻 I am interested in machine learning and application development.
-- 💬 Please ask me about anything [here](https://github.com/is0383kk/is0383kk/issues) or E-male.
+- 💻 I am interested in machine learning and application development using Java.
+- 💬 Please ask me about anything.
 
 | <a href="https://github.com/is0383kk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=is0383kk&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/is0383kk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
