@@ -1,1 +1,1 @@
-![is0383kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=is0383kk&theme=graywhite)
+![is0383kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=is0383kk&theme=dark)
