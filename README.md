@@ -11,7 +11,7 @@
 </p>
 
 
-### 🖥️ Open-Source Projects
+### 🖥️ Popular Repositories
 <table width="100">
 <tr><th>Machine Learning </th><th>Application development</th></tr>
 <tr><td>
@@ -28,6 +28,6 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Spring Boot Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | Java・Spring Boot|
-| [GitHub Pages Tutorial](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | HTML・CSS・GitHub Pages |
+| [GitHub Pages Tutorial](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | GitHub Pages </br> HTML・CSS |
 
 </td></tr> </table>
