@@ -27,7 +27,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Spring-Boot-Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | hoge |
+| [Spring-Boot-Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
 | [Cloud File Manager](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | hoge |
 
 </td></tr> </table>
