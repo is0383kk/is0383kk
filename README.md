@@ -13,7 +13,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Hoge </th><th>Hoge</th></tr>
+<tr><th>Machine Learning </th><th>Application development</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -28,6 +28,6 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Spring Boot Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | Java |
-| [GitHub Pages Tutorial](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | Java |
+| [GitHub Pages Tutorial](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | HTML CSS |
 
 </td></tr> </table>
