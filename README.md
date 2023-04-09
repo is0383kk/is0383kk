@@ -19,7 +19,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Mutual learning model:VAE+GMM](https://github.com/is0383kk/Pytorch_VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Pytorch_VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch |
-| [3D Semantic Segmentation](https://github.com/is0383kk/Dirichlet-VAE) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Dirichlet-VAE?style=flat-square&labelColor=black"/> | PyTorch |
+| [Dirichlet-VAE](https://github.com/is0383kk/Dirichlet-VAE) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Dirichlet-VAE?style=flat-square&labelColor=black"/> | PyTorch |
 | [Emergent Communication through M-H Naming Game](https://github.com/is0383kk/SymbolEmergence-VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/SymbolEmergence-VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch |
 
 
@@ -27,7 +27,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Spring-Boot-Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | Java |
-| [Cloud File Manager](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | Java |
+| [Spring Boot Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | Java |
+| [GitHub Pages Tutorial](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | Java |
 
 </td></tr> </table>
