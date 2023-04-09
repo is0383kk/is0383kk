@@ -12,7 +12,7 @@
 
 
 ### 🖥️ Open-Source Projects
-<table width="300">
+<table width="100">
 <tr><th>Machine Learning </th><th>Application development</th></tr>
 <tr><td>
 
