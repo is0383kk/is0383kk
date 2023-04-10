@@ -20,7 +20,7 @@
 |--|--|--|
 | [Mutual learning model:VAE+GMM](https://github.com/is0383kk/Pytorch_VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Pytorch_VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch </br> VAE・GMM|
 | [Dirichlet VAE](https://github.com/is0383kk/Dirichlet-VAE) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Dirichlet-VAE?style=flat-square&labelColor=black"/> | PyTorch </br> VAE|
-| [SymbolEmergence model](https://github.com/is0383kk/SymbolEmergence-VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/SymbolEmergence-VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch </br> VAE・GMM |
+| [Symbol Emergence model](https://github.com/is0383kk/SymbolEmergence-VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/SymbolEmergence-VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch </br> VAE・GMM |
 
 
 </td><td>
