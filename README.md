@@ -1,5 +1,5 @@
-# Yoshiwo's website is now open🐈
-[よしをのホームページ](https://is0383kk.github.io/)
+**Yoshiwo's website is now open**🐈  
+→[よしをのホームページ](https://is0383kk.github.io/)
 
 ---
 
