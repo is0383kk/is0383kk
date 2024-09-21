@@ -27,7 +27,6 @@
 
 |Title | Stars | Keywords |
 |--|--|--|
-| [Yoshiwo's web page](https://is0383kk.github.io/) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/is0383kk.github.io?style=flat-square&labelColor=black"/> | Hugo・GitHub Pages|
 | [Spring Boot Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | Java・Spring Boot|
 | [GitHub Pages Tutorial](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | GitHub Pages </br> HTML・CSS |
 
