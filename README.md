@@ -12,10 +12,22 @@
 </p>
 
 ### 🔥 Popular Repositories
+<table width="100">
+<tr><th>Machine Learning </th><th>Application development</th></tr>
+<tr><td>
 
 |Title | Stars | Keywords |
 |--|--|--|
 | [Mutual learning model:VAE+GMM](https://github.com/is0383kk/Pytorch_VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Pytorch_VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch </br> VAE・GMM|
 | [Dirichlet VAE](https://github.com/is0383kk/Dirichlet-VAE) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Dirichlet-VAE?style=flat-square&labelColor=black"/> | PyTorch </br> VAE|
 | [Symbol Emergence model](https://github.com/is0383kk/SymbolEmergence-VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/SymbolEmergence-VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch </br> VAE・GMM |
+
+
+</td><td>
+
+|Title | Stars | Keywords |
+|--|--|--|
 | [Spring Boot Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | Java・Spring Boot|
+| [GitHub Pages Tutorial](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | GitHub Pages </br> HTML・CSS |
+
+</td></tr> </table>
