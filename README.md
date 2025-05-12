@@ -12,9 +12,6 @@
   <img alt="lang" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&theme=dracula&layout=compact"  />
   <img alt="lang" height="170px" src="https://github-profile-trophy.vercel.app/?username=is0383kk&title=-Followers,-Issues,-Reviews,-PullRequest&theme=darkhub"  />
 </p>
-<p align="center">
-  <img alt="lang" height="170px" src="https://github-profile-trophy.vercel.app/?username=is0383kk&title=-Followers,-Issues,-Reviews,-PullRequest&theme=darkhub"  />
-</p>
 
 ### 🔥 Popular Repositories
 <table width="100">
