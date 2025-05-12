@@ -6,12 +6,12 @@
 </p>
 
 ### 📈 Stats
-<p align="center">
+<div align="center">
   <!--stat-->
   <img alt="stat" height="170px" src="https://github-readme-stats.vercel.app/api?username=is0383kk&count_private=true&theme=dracula&show_icons=true" />
   <img alt="lang" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&theme=dracula&layout=compact"  />
   <img alt="lang" height="170px" src="https://github-profile-trophy.vercel.app/?username=is0383kk&title=-Followers,-Issues,-Reviews,-PullRequest&theme=darkhub"  />
-</p>
+</div>
 
 ### 🔥 Popular Repositories
 <table width="100">
