@@ -6,9 +6,13 @@
 </p>
 
 ### 📈 Stats
-<img alt="stat"  src="https://github-readme-stats.vercel.app/api?username=is0383kk&count_private=true&theme=dracula&show_icons=true" />
-<img alt="lang"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&theme=dracula&layout=compact"  />
-<img alt="lang"  src="https://github-profile-trophy.vercel.app/?username=is0383kk&title=-Followers,-Issues,-Reviews,-PullRequest&theme=darkhub"  />
+<div>
+  <div>
+    <img alt="stat"  src="https://github-readme-stats.vercel.app/api?username=is0383kk&count_private=true&theme=dracula&show_icons=true" />
+    <img alt="lang"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&theme=dracula&layout=compact"  />
+  </div>
+  <img alt="lang"  src="https://github-profile-trophy.vercel.app/?username=is0383kk&title=-Followers,-Issues,-Reviews,-PullRequest&theme=darkhub&column=4"  />
+<div>
 
 
 ### 🔥 Popular Repositories
