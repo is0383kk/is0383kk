@@ -9,29 +9,7 @@
 <div>
   <img alt="lang"  src="https://github-profile-trophy.vercel.app/?username=is0383kk&title=-Followers,-Issues,-Reviews,-PullRequest&theme=darkhub&column=4"  />
   <div>
-    <img alt="stat"  src="https://github-readme-stats.vercel.app/api?username=is0383kk&count_private=true&theme=dracula&show_icons=true" />
+    <img alt="stat"  src="https://github-readme-stats.vercel.app/api?username=is0383kk&count_private=true&show_icons=true" />
     <img alt="lang"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&theme=dracula&layout=compact"  />
   </div>
 <div>
-
-
-### 🔥 Popular Repositories
-<table width="100">
-<tr><th>Machine Learning </th><th>Web pages and Application development</th></tr>
-<tr><td>
-
-|Title | Stars | Keywords |
-|--|--|--|
-| [Mutual learning model:VAE+GMM](https://github.com/is0383kk/Pytorch_VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Pytorch_VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch </br> VAE・GMM|
-| [Dirichlet VAE](https://github.com/is0383kk/Dirichlet-VAE) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Dirichlet-VAE?style=flat-square&labelColor=black"/> | PyTorch </br> VAE|
-| [Symbol Emergence model](https://github.com/is0383kk/SymbolEmergence-VAE-GMM) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/SymbolEmergence-VAE-GMM?style=flat-square&labelColor=black"/> | PyTorch </br> VAE・GMM |
-
-
-</td><td>
-
-|Title | Stars | Keywords |
-|--|--|--|
-| [Spring Boot Camp](https://github.com/is0383kk/Spring-Boot-Camp) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/Spring-Boot-Camp?style=flat-square&labelColor=black"/> | Java・Spring Boot|
-| [GitHub Pages Tutorial](https://github.com/is0383kk/GitHub-Pages-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/is0383kk/GitHub-Pages-Tutorial?style=flat-square&labelColor=black"/> | GitHub Pages </br> HTML・CSS |
-
-</td></tr> </table>
