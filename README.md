@@ -8,5 +8,4 @@
 
 [![](https://raw.githubusercontent.com/is0383kk/is0383kk/main/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/is0383kk/is0383kk/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!-- [![](https://raw.githubusercontent.com/is0383kk/is0383kk/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+[![](https://raw.githubusercontent.com/is0383kk/is0383kk/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
