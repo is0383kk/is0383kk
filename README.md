@@ -9,7 +9,7 @@
 <div>
   <img alt="lang"  src="https://github-profile-trophy.vercel.app/?username=is0383kk&title=-Followers,-Issues,-Reviews,-PullRequest&theme=darkhub&column=4"  />
   <div>
-    <img alt="stat"  src="https://github-readme-stats.vercel.app/api?username=is0383kk&count_private=true&show_icons=true" />
+    <img alt="stat"  src="https://github-readme-stats.vercel.app/api?username=is0383kk&count_private=true" />
     <img alt="lang"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0383kk&theme=dracula&layout=compact"  />
   </div>
 <div>
